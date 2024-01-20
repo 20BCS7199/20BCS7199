@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/475eb095746151.5e9ecde695f7a.gif)
 <h1 align="center">Hi 👋, I'm Muskan Rastogi</h1>
-<h3 align="center">A pre-final year student who loves to code</h3>
+<h3 align="center">A final year student who loves to code</h3>
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=20bcs7199&label=Profile%20views&color=0e75b6&style=flat" alt="20bcs7199" /> </p>
